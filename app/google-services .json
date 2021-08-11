@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "320954719952",
+    "project_id": "fir-e33e3",
+    "storage_bucket": "fir-e33e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320954719952:android:0be6992a565af1d5d308d5",
+        "android_client_info": {
+          "package_name": "com.isc.skylineuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320954719952-u4ck6b3ngn4p2ogvjhc167cmo3135m4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmYY52Sk7zfapKoYB6WI_QtWAByNb8C3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320954719952-u4ck6b3ngn4p2ogvjhc167cmo3135m4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320954719952:android:ddf04e0a4e9d11e4d308d5",
+        "android_client_info": {
+          "package_name": "com.isc.taller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320954719952-u4ck6b3ngn4p2ogvjhc167cmo3135m4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmYY52Sk7zfapKoYB6WI_QtWAByNb8C3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320954719952-u4ck6b3ngn4p2ogvjhc167cmo3135m4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
